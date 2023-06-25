@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="itstack-demo-design-20-02" />
         <module name="itstack-demo-design-1-02" />
+        <module name="itstack-demo-design-20-01" />
         <module name="itstack-demo-design-1-01" />
         <module name="itstack-demo-design-1-00" />
       </profile>
